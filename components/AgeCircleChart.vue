@@ -105,8 +105,7 @@ export default {
           ]
         }
       }
-      // const colorArray = ['#00b849', '#00d154', '#008830']
-      const colorArray = ['#6fd2ff','#6fbeff','#6fabff','#6f98ff','#6f85ff','#6f72ff','#846fff','#976fff','#aa6fff','#bd6fff','#0042ff']
+      const colorArray = ['#5870ff','#bfffa0','#7fff00','#00ff7f','#00ffff','#007fff','#ff00ff','#7f00ff','#ff007f','#e5fe00']
       return {
         labels: this.chartData.map(d => {
           return this.$t(d.label)
