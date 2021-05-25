@@ -1,17 +1,20 @@
 // import dayjs from 'dayjs'
 
 const headers = [
+  { text: 'No', value: 'No' },
   { text: '市町村', value: '市町村' },
   { text: '感染者数', value: '感染者数' }
 ]
 
 type DataType = {
+  No: number
   市町村: string
   感染者数: number
   [key: string]: any
 }
 
 type TableDataType = {
+  No: DataType['No']
   市町村: DataType['市町村']
   感染者数: DataType['感染者数']
 }
@@ -33,6 +36,7 @@ export default (data: DataType[]) => {
   }
   data.forEach(d => {
     const TableRow: TableDataType = {
+      No: d['No'],
       市町村: d['市町村'],
       感染者数: d['感染者数']
     }

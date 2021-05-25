@@ -97,7 +97,7 @@ const config: Configuration = {
     }
   },
   googleAnalytics: {
-    id: 'UA-162797773-1'
+    id: 'G-YF81C4X3M1'
   },
   /* optionalCookies: [
     {

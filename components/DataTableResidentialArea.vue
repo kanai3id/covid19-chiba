@@ -19,6 +19,7 @@
       <template v-slot:body="{ items }">
         <tbody>
           <tr v-for="item in items" :key="item.text">
+            <th class="text-start">{{ item['No'] }}</th>
             <td class="text-start" style="font-size : 12px;">
               {{ item['市町村'] }}
             </td>
