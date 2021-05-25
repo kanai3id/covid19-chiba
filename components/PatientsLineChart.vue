@@ -226,6 +226,7 @@ export default class PatientsChart extends Vue {
       datasets: [
         {
           type: 'bar',
+          color: '#00aaff',
           title: this.$t('陽性者累計数'),
           unit: this.$t('人'),
           values: rows.select(d => d.total).toArray()
