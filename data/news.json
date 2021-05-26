@@ -1,14 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2021-05-24",
-      "url": "https://www.pref.chiba.lg.jp/soumu/jinji/covid19/press-030521.html",
-      "text": "県職員の新型コロナウイルス感染について（令和3年5月21日発表）"
+      "date": "2021-05-26",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210526-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年5月26日）"
     },
     {
-      "date": "2021-05-24",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210524-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年5月24日）"
+      "date": "2021-05-26",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210526-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(670-672例目)"
+    },
+    {
+      "date": "2021-05-26",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210526-3.html",
+      "text": "新型コロナウイルス感染症（変異株PCR検査陽性）患者等の発生について（令和3年5月26日）"
     }
   ]
 }
