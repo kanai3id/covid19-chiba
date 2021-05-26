@@ -71,7 +71,7 @@ const config: Configuration = {
     '@nuxtjs/stylelint-module',
     '@nuxtjs/vuetify',
     '@nuxt/typescript-build',
-    '@nuxtjs/google-analytics'
+    '@nuxtjs/google-gtag'
   ],
   /*
    ** Nuxt.js modules
@@ -83,7 +83,11 @@ const config: Configuration = {
     ['nuxt-i18n', i18n],
     'nuxt-svg-loader',
     ['vue-scrollto/nuxt', { duration: 1000, offset: -72 }],
-    'nuxt-webfontloader'
+    'nuxt-webfontloader',
+    ['@nuxtjs/google-gtag', {
+      id: 'G-YF81C4X3M1',
+      debug: false
+    }]
   ],
   /*
    ** vuetify module configuration
@@ -95,9 +99,6 @@ const config: Configuration = {
     defaultAssets: {
       icons: false
     }
-  },
-  googleAnalytics: {
-    id: 'G-YF81C4X3M1'
   },
   /* optionalCookies: [
     {
