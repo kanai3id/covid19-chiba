@@ -42,7 +42,7 @@ import ConfirmedCasesDetailsCard from '@/components/cards/ConfirmedCasesDetailsC
 import ConfirmedCasesNumberCard from '@/components/cards/ConfirmedCasesNumberCard.vue'
 // 居住地の状況 : residential-area.json
 import ResidentialAreaCard from '@/components/cards/ResidentialArea.vue'
-// 検査の陽性率 : test.json
+// PCR検査状況 : test.json
 import PositiveRateCard from '@/components/cards/PositiveRateCard.vue'
 // 年代別 : age.json
 import AgeCard from '@/components/cards/AgeCard.vue'
@@ -84,7 +84,7 @@ export default {
         updatedAt = age.age_summary.date
         break
       case 'positive-rate-card':
-        title = this.$t('検査の陽性率')
+        title = this.$t('PCR検査状況(陰性化確認を除く)')
         updatedAt = test.test_summary.date
         break
       case 'kanto-card':
