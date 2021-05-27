@@ -23,6 +23,13 @@
         :unit="displayInfo.unit"
       />
     </template>
+    <template v-slot:additionalDescription>
+      <ul>
+        <li>
+          {{ $t('（注）千葉県発表のPCR検査のみ') }}
+        </li>
+      </ul>
+    </template>
     <template v-slot:footer>
       <open-data-link v-show="url" :url="url" />
     </template>
