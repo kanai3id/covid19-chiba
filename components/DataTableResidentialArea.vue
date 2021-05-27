@@ -24,6 +24,7 @@
               {{ item['市町村'] }}
             </td>
             <th class="text-start">{{ item['感染者数'] }}</th>
+            <th class="text-start">{{ item['増加'] }}</th>
           </tr>
         </tbody>
       </template>

@@ -1,4 +1,7 @@
 {
+  "市町村": "Cities",
+  "感染者数": "Infected person",
+  "増加": "Increase/day",
   "（注）千葉県発表のPCR検査のみ": "(Note) Only PCR tests announced by Chiba Prefecture",
   "療養中患者数": "Patients undergoing medical treatment",
   "ホテル療養": "Recuperation at the hotel",
