@@ -34,6 +34,10 @@ export default {
       unit: this.$t('人')
     }
 
+    for (const header of residentialAreaTable.headers) {
+      header.text = this.$t(header.value)
+    }
+
     for (const row of residentialAreaTable.datasets) {
       row['市町村'] = this.getTranslatedWording(row['市町村'])
     }
