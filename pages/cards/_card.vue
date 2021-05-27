@@ -84,7 +84,7 @@ export default {
         updatedAt = age.age_summary.date
         break
       case 'positive-rate-card':
-        title = this.$t('PCR検査状況(陰性化確認を除く)')
+        title = this.$t('PCR検査状況')
         updatedAt = test.test_summary.date
         break
       case 'kanto-card':
