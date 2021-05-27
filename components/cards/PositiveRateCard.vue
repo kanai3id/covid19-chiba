@@ -5,7 +5,7 @@
       :daily-data="Data.test_summary.data"
       :title-id="'positive-rate-card'"
       :chart-id="'positive-rate-chart'"
-      :title="$t('PCR検査状況(陰性化確認を除く)')"
+      :title="$t('PCR検査状況')"
     />
   </v-col>
 </template>
