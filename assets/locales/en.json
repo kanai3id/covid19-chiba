@@ -1,4 +1,7 @@
 {
+  "関東地区の状況・療養患者数と重症者数のグラフは TOYO KEIZAI ONLINE様 のデータを利用しています。": "The graph of the situation in the Kanto area, the number of medical treatment patients and the number of severely ill patients uses data from TOYO KEIZAI ONLINE.",
+  "千葉県新型コロナウイルス感染症に関する情報": "Information on new coronavirus infections in Chiba Prefecture",
+  "現在利用しているデータは以下の通りです。": "The data currently used are as follows",
   "市町村": "Cities",
   "感染者数": "Infected person",
   "増加": "New",
@@ -274,7 +277,7 @@
   "複製・改変が許されたオープンソースライセンスで公開されている、{covid19-web}の{covid19-github}を利用しています。": "I use {covid19-github} of {covid19-web}, which is released under an open source license that allows copying and modification.",
   "千葉県による公式情報と客観的な数値をわかりやすく伝えることで、千葉県にお住まいの方や、千葉県内に拠点を持つ企業の方、千葉県を訪れる方が、現状を把握して適切な対策を取れるようにすることを目的としています。": "By conveying official information of the Tokyo Metropolitan Government and objective data in an easy-to-understand way, this site aims to allow Tokyo residents, companies with offices in Tokyo, and visitors to Tokyo to grasp the current situation and take measures and precautions accordingly. ",
   "※ 推奨環境以外で利用された場合や、推奨環境下でもご利用のブラウザの設定等によっては、正しく表示されない場合がありますのでご了承ください。": "Please understand that this website may not display correctly when using a browser that is not recommended, or depending upon the settings of the recommended browser. ",
-  "当サイトのデータは、千葉県のサイトからデータを取得、及びニュース記事についてはWebページをスクレイピングして取得し情報を更新しています。": "The data on this site is obtained from the site in Chiba prefecture, and for news articles, the information is updated by scraping the web page.",
+  "当サイトのデータは、千葉県のサイトからデータを取得して取得し情報を更新しています。": "The data is updated by acquiring the data from the site in Chiba prefecture",
   "隣接県の状況は TOYO KEIZAI ONLINE様 のデータを利用しています。": "The data of TOYO KEIZAI ONLINE is used for the data of the situation of the neighboring prefectures.",
   "クッキー (Cookie) について": "About cookies",
   "クッキーとは、Webコンテンツからの要求で利用者の手元の端末に一時的に保存されるデータのことで、当サイトでは利用状況の把握のためにクッキーを使用する場合があります。": "A cookie is data sent from a website and temporarily stored on the user's computer. Here, cookies may be used to track website activity.",
