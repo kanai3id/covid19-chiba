@@ -48,17 +48,16 @@
       </nav>
 
       <footer class="SideNavigation-Footer">
-        <div class="SideNavigation-Social">
+        <div class="SideNavigation-ChibaPrefectureLink">
           <a
-            href="https://github.com/kanai3id/covid19-chiba"
+            href="https://www.pref.chiba.lg.jp/"
             target="_blank"
-            rel="noopener noreferrer"
-            class="SideNavigation-SocialLink"
           >
-            <picture>
-              <source srcset="/github.webp" type="image/webp" />
-              <img src="/github.png" alt="GitHub" />
-            </picture>
+            <img
+              src="/hp-rogo2020_02.png"
+              width="120"
+              alt="千葉県ホームページ"
+            />
           </a>
         </div>
         <small class="SideNavigation-Copyright">
@@ -332,11 +331,15 @@ export default Vue.extend({
 }
 
 .SideNavigation-Footer {
-  padding-top: 20px;
+  padding-top: 2px;
 }
 
 .SideNavigation-Social {
   display: flex;
+}
+
+.SideNavigation-ChibaPrefectureLink {
+  margin-top: 16px;
 }
 
 .SideNavigation-SocialLink {
