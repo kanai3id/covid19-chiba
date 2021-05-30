@@ -23,8 +23,8 @@
             <td class="text-start" style="font-size : 12px;">
               {{ item['市町村'] }}
             </td>
-            <th class="text-start">{{ item['感染者数'] }}</th>
             <th class="text-start">{{ item['増加'] }}</th>
+            <th class="text-start">{{ item['感染者数'] }}</th>
           </tr>
         </tbody>
       </template>

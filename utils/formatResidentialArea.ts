@@ -3,8 +3,8 @@
 const headers = [
   { text: 'No', value: 'No' },
   { text: '市町村', value: '市町村' },
-  { text: '感染者数', value: '感染者数' },
-  { text: '増加', value: '増加' }
+  { text: '増加', value: '増加' },
+  { text: '感染者数', value: '感染者数' }
 ]
 
 type DataType = {
