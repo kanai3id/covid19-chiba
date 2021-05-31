@@ -17,7 +17,7 @@
       <div class="InfectionMedicalcareprovisionStatus-description">
         {{ $t('新規陽性者')
         }}<span> {{ statuses.data['新規陽性者'].toLocaleString() }}人</span> |
-        {{ $t('PCR検査数')
+        {{ $t('PCR,抗原検査')
         }}<span>{{ statuses.data['検査数'].toLocaleString() }}件</span> ({{
           statisticDate
         }}{{ $t('参考値') }})
