@@ -26,11 +26,6 @@
     <template v-slot:additionalDescription>
       <ul>
         <li>
-          {{ $t('※千葉県発表のPCR検査のみ') }}
-        </li>
-      </ul>
-      <ul>
-        <li>
           {{ $t('※県衛生研究所並びに保健所、医療機関及び民間検査機関等（千葉市、船橋市、柏市含む）における実施分の合計です。') }}
         </li>
       </ul>
