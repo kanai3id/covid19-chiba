@@ -1,9 +1,14 @@
 {
   "newsItems": [
     {
-      "date": "2021-06-20",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210620-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年6月20日）"
+      "date": "2021-06-21",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210618-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年6月18日）"
+    },
+    {
+      "date": "2021-06-21",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210621-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年6月21日）"
     }
   ]
 }
