@@ -1,14 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2021-07-07",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210707-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月7日）"
+      "date": "2021-07-08",
+      "url": "https://www.pref.chiba.lg.jp/byouin/covid19_vaccine.html",
+      "text": "県立佐原病院における有効期限切れの新型コロナワクチンの接種及びワクチンの廃棄について(令和3年7月7日)"
     },
     {
-      "date": "2021-07-07",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210707-2.html",
-      "text": "新型コロナウイルス感染症による死亡について(713例目)"
+      "date": "2021-07-08",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210708-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月8日）"
+    },
+    {
+      "date": "2021-07-08",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210708-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(714例目)"
     }
   ]
 }
