@@ -1,19 +1,14 @@
 {
   "newsItems": [
     {
-      "date": "2021-07-10",
-      "url": "https://www.pref.chiba.lg.jp/kg-tougane/kyuukou.html",
-      "text": "新型コロナウイルス感染者の発生に伴う県立高等技術専門校の一部臨時休校について"
+      "date": "2021-07-11",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210711-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月11日）"
     },
     {
-      "date": "2021-07-10",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210710-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月10日）"
-    },
-    {
-      "date": "2021-07-10",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210710-2.html",
-      "text": "新型コロナウイルス感染症による死亡について(716例目)"
+      "date": "2021-07-11",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210711-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(717例目)"
     }
   ]
 }
