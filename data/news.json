@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-07-19",
+      "url": "https://www.pref.chiba.lg.jp/kenfuku/uchiawasekai/dai-1kai.html",
+      "text": "新型コロナウイルス感染症の感染動向の推移を評価する打合せ会（第1回）の開催結果について"
+    },
+    {
+      "date": "2021-07-19",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210719-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月19日）"
+    },
+    {
       "date": "2021-07-18",
       "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210718-1.html",
       "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月18日）"
-    },
-    {
-      "date": "2021-07-17",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210717-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月17日）"
-    },
-    {
-      "date": "2021-07-17",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210717-2.html",
-      "text": "新型コロナウイルス感染症による死亡について(724-725例目)"
     }
   ]
 }
