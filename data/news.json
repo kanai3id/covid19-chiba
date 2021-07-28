@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-07-28",
+      "url": "https://www.pref.chiba.lg.jp/soumu/jinji/covid19/press-030727.html",
+      "text": "県職員の新型コロナウイルス感染について（令和3年7月27日発表）"
+    },
+    {
+      "date": "2021-07-28",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210728-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月28日）"
+    },
+    {
       "date": "2021-07-27",
       "url": "https://www.pref.chiba.lg.jp/kenfuku/uchiawasekai/dai-2kai.html",
       "text": "新型コロナウイルス感染症の感染動向の推移を評価する打合せ会（第2回）の開催結果について"
-    },
-    {
-      "date": "2021-07-27",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210727-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年7月27日）"
-    },
-    {
-      "date": "2021-07-27",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210727-2.html",
-      "text": "新型コロナウイルス感染症による死亡について(730-731例目)"
     }
   ]
 }
