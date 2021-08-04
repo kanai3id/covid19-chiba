@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-08-04",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210804-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年8月4日）"
+    },
+    {
+      "date": "2021-08-04",
+      "url": "https://www.pref.chiba.lg.jp/kenfuku/uchiawasekai/dai-3kai.html",
+      "text": "新型コロナウイルス感染症の感染動向の推移を評価する打合せ会（第3回）の開催結果について"
+    },
+    {
       "date": "2021-08-03",
       "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210803-1.html",
       "text": "新型コロナウイルス感染症感染者の発生について（令和3年8月3日）"
-    },
-    {
-      "date": "2021-08-02",
-      "url": "https://www.pref.chiba.lg.jp/yakumu/press/2021/20210801youbou.html",
-      "text": "新型コロナウイルス感染症の治療薬に係る国への要望について(令和3年8月1日）"
-    },
-    {
-      "date": "2021-08-02",
-      "url": "https://www.pref.chiba.lg.jp/kenfuku/uchiawasekai/dai-3kai.html",
-      "text": "新型コロナウイルス感染症の感染動向の推移を評価する打合せ会（第3回）の開催結果について"
     }
   ]
 }
