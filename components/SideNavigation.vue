@@ -48,6 +48,7 @@
       </nav>
 
       <footer class="SideNavigation-Footer">
+        <!--
         <div class="SideNavigation-ChibaPrefectureLink">
           <a
             href="https://www.pref.chiba.lg.jp/"
@@ -60,6 +61,7 @@
             />
           </a>
         </div>
+        -->
         <small class="SideNavigation-Copyright">
           {{ $t('このサイトの内容物は') }}
           <a
