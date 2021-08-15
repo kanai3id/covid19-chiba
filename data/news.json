@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-08-15",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210815-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年8月15日）"
+    },
+    {
+      "date": "2021-08-15",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210815-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(755-756例目)"
+    },
+    {
       "date": "2021-08-14",
       "url": "https://www.pref.chiba.lg.jp/kenfuku/uchiawasekai/dai-5kai.html",
       "text": "新型コロナウイルス感染症の感染動向の推移を評価する打合せ会（第5回）の開催結果について"
-    },
-    {
-      "date": "2021-08-14",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210814-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年8月14日）"
-    },
-    {
-      "date": "2021-08-14",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210814-2.html",
-      "text": "新型コロナウイルス感染症による死亡について(750-752例目)"
     }
   ]
 }
