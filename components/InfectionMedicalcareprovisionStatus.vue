@@ -9,7 +9,7 @@
     <div class="InfectionMedicalcareprovisionStatus-Box">
       <div class="InfectionMedicalcareprovisionStatus-Headline">
         <app-link
-          to="https://www.pref.chiba.lg.jp/shippei/press/2019/ncov-index.html"
+          to="https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-doko.html"
         >
           {{ $t('感染状況') }}
         </app-link>
@@ -17,7 +17,7 @@
       <div class="InfectionMedicalcareprovisionStatus-description">
         {{ $t('新規陽性者')
         }}<span> {{ statuses.data['新規陽性者'].toLocaleString() }}人</span> |
-        {{ $t('PCR,抗原検査')
+        {{ $t('検査数')
         }}<span>{{ statuses.data['検査数'].toLocaleString() }}件</span> ({{
           statisticDate
         }}{{ $t('参考値') }})
@@ -25,33 +25,38 @@
     </div>
     <div class="InfectionMedicalcareprovisionStatus-Box">
       <div class="InfectionMedicalcareprovisionStatus-Headline">
-        <app-link to="https://www.pref.chiba.lg.jp/kenfuku/kansenshou/ncov/byousyou-senyu.html">
+        <app-link to="https://covid19-nagano.info/cards/patient-care-card/">
           {{ $t('医療提供体制') }}
         </app-link>
       </div>
       <div class="InfectionMedicalcareprovisionStatus-description">
         {{ $t('入院数')
-        }}<span> {{ statuses.data['入院数'].toLocaleString() }}人</span>
-        {{ $t('、うち重傷者') }} 
-        <span> {{ statuses.data['重傷者'].toLocaleString() }}人</span> ({{
+        }}<span> {{ statuses.data['入院数'].toLocaleString() }}人</span> ({{
           $t('確保病床数')
         }}<span>{{ statuses.data['確保病床数'].toLocaleString() }}床</span>)
       </div>
     </div>
     <div class="InfectionMedicalcareprovisionStatus-Box">
       <div class="InfectionMedicalcareprovisionStatus-Headline">
-        <app-link
-          to="https://cio.go.jp/c19vaccine_dashboard"
-        >
+        <app-link to="https://cio.go.jp/c19vaccine_dashboard">
           {{ $t('ワクチン接種状況') }}
         </app-link>
       </div>
       <div class="InfectionMedicalcareprovisionStatus-description">
-        {{ $t('１回目接種数')
-        }}: <span> {{ statuses.data['ワクチン１回'].toLocaleString() }}</span>
-        , {{ $t('２回目接種数')
-        }}: <span>{{ statuses.data['ワクチン２回'].toLocaleString() }}</span
-        >
+        {{ $t('１回目接種数') }}:
+        <span>
+          {{ statuses.data['ワクチン１回'].toLocaleString() }} ({{
+            statuses.data['ワクチン１割合'].toLocaleString()
+          }}
+          %)
+        </span>
+        , {{ $t('２回目接種数') }}:
+        <span
+          >{{ statuses.data['ワクチン２回'].toLocaleString() }} ({{
+            statuses.data['ワクチン２割合'].toLocaleString()
+          }}
+          %)
+        </span>
         , {{ $t('出典元:内閣官房 IT総合戦略室') }}
       </div>
     </div>
@@ -112,7 +117,7 @@ export default Vue.extend({
       border: 1px solid;
       border-color: #000;
       margin: 0 4px 1px 0;
-      color: #0051ff;
+      color: #008830;
 
       @include font-size(12);
     }
@@ -124,7 +129,7 @@ export default Vue.extend({
       margin: 0;
 
       > span {
-        color: #0051ff;
+        color: #008830;
       }
 
       > a {
