@@ -126,6 +126,26 @@
           {{ $t('MITライセンス') }}
         </span>
       </p>
+      <span><p /></span>
+      <p class="StaticCard-Note">
+        <span>
+          {{
+            $t(
+              '新型コロナワクチンの接種状況は、内閣官房 情報通信技術（ＩＴ）総合戦略室様のデータを利用しています。'
+            )
+          }}<br />
+          {{ $t('このようなソリューションの提供に感謝します。') }}<br />
+          <a
+            href="https://cio.go.jp/c19vaccine_dashboard"
+            target="_blank"
+            rel="noopener"
+          >
+            {{ $t('出典元：内閣官房 情報通信技術（ＩＴ）総合戦略室') }}
+          </a>
+          <br />
+          {{ $t('クリエイティブ・コモンズ 表示 4.0 ライセンス') }}
+        </span>
+      </p>
     </static-card>
 
     <static-card>
