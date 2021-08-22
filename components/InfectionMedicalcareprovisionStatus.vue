@@ -38,6 +38,23 @@
         }}<span>{{ statuses.data['確保病床数'].toLocaleString() }}床</span>)
       </div>
     </div>
+    <div class="InfectionMedicalcareprovisionStatus-Box">
+      <div class="InfectionMedicalcareprovisionStatus-Headline">
+        <app-link
+          to="https://cio.go.jp/c19vaccine_dashboard"
+        >
+          {{ $t('ワクチン接種状況') }}
+        </app-link>
+      </div>
+      <div class="InfectionMedicalcareprovisionStatus-description">
+        {{ $t('１回目接種数')
+        }}: <span> {{ statuses.data['ワクチン１回'].toLocaleString() }}</span>
+        , {{ $t('２回目接種数')
+        }}: <span>{{ statuses.data['ワクチン２回'].toLocaleString() }}</span
+        >
+        , {{ $t('出典元:内閣官房 IT総合戦略室') }}
+      </div>
+    </div>
   </div>
 </template>
 
