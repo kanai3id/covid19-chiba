@@ -9,7 +9,7 @@
     <div class="InfectionMedicalcareprovisionStatus-Box">
       <div class="InfectionMedicalcareprovisionStatus-Headline">
         <app-link
-          to="https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-doko.html"
+          to="https://www.pref.chiba.lg.jp/shippei/press/2019/ncov-index.html"
         >
           {{ $t('感染状況') }}
         </app-link>
@@ -25,7 +25,7 @@
     </div>
     <div class="InfectionMedicalcareprovisionStatus-Box">
       <div class="InfectionMedicalcareprovisionStatus-Headline">
-        <app-link to="https://covid19-nagano.info/cards/patient-care-card/">
+        <app-link to="https://www.pref.chiba.lg.jp/kenfuku/kansenshou/ncov/byousyou-senyu.html">
           {{ $t('医療提供体制') }}
         </app-link>
       </div>
