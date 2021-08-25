@@ -47,7 +47,8 @@ export default (data: DataType[]) => {
     tableDate.datasets.push(TableRow)
   })
   tableDate.datasets.sort((a, b) =>
-    a.感染者数 === b.感染者数 ? 0 : a.感染者数 < b.感染者数 ? 1 : -1
+    /** a.感染者数 === b.感染者数 ? 0 : a.感染者数 < b.感染者数 ? 1 : -1 */
+    a.増加 === b.増加 ? 0 : a.増加 < b.増加 ? 1 : -1
   )
   return tableDate
 }
