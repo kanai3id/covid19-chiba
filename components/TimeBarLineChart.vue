@@ -187,7 +187,7 @@ export default class TimeBarLineChart extends Vue {
       label: dataset.title, // 凡例名
       data: dataset.values,
       borderColor: dataset.color ?? this.defaultLineColor,
-      borderWidth: 3,
+      borderWidth: 2,
       borderDash: dataset.lineStyle === 'dashed' ? [4, 3] : [],
       pointRadius: 0,
       pointHitRadius: 10,
