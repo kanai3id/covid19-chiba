@@ -150,7 +150,8 @@ const config: Configuration = {
         '/cards/age-card',
         '/cards/kanto-card',
         '/cards/medical-treatment-card',
-        '/cards/severely-patient-card'
+        '/cards/severely-patient-card',
+        '/cards/vaccination-number-card'
       ]
 
       const routes: string[] = []
