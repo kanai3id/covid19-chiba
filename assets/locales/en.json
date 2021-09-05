@@ -1,4 +1,9 @@
 {
+  "ワクチンの接種状況": "Vaccination status",
+  "１回接種": "1st shot",
+  "２回接種": "2st shot",
+  "VRSに記録された接種券で集計されております。": "Aggregated with vouchers recorded on VRS.",
+  "医療従事者等の記録は含まれておりません。": "Records of medical staffc are not included.",
   "出典元：内閣官房 情報通信技術（ＩＴ）総合戦略室": "出典元：内閣官房 情報通信技術（ＩＴ）総合戦略室",
   "出典元:内閣官房 IT総合戦略室": "出典元:内閣官房 IT総合戦略室",
   "１回目接種数": "1st inoculation",

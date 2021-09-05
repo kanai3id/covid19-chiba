@@ -13,6 +13,9 @@
       v-else-if="this.$route.params.card == 'residential-area-card'"
     />
     <age-card v-else-if="this.$route.params.card == 'age-card'" />
+    <vaccination-number-card
+      v-else-if="this.$route.params.card == 'vaccination-number-card'" 
+    />
     <kanto-card
       v-else-if="this.$route.params.card == 'kanto-card'"
     />
@@ -35,6 +38,7 @@ import residentialarea from '@/data/residential-area.json'
 import kanto from '@/data/kanto.json'
 import medicaltreatment from '@/data/medical-treatment.json'
 import severelypatient from '@/data/severely-patient.json'
+import vaccination from '@/data/vaccination.json'
 
 // 検査陽性者の状況 : data.json
 import ConfirmedCasesDetailsCard from '@/components/cards/ConfirmedCasesDetailsCard.vue'
@@ -52,6 +56,8 @@ import KantoCard from '@/components/cards/KantoCard.vue'
 import MedicalTreatmentCard from '@/components/cards/MedicalTreatmentCard.vue'
 // 重症者数 : severely-patient.json
 import SeverelyPatientCard from '@/components/cards/SeverelyPatientCard.vue'
+// ワクチンの接種状況 : vaccination.json
+import VaccinationNumberCard from '@/components/cards/VaccinationNumberCard.vue'
 
 export default {
   components: {
@@ -62,7 +68,8 @@ export default {
     AgeCard,
     KantoCard,
     MedicalTreatmentCard,
-    SeverelyPatientCard
+    SeverelyPatientCard,
+    VaccinationNumberCard
   },
   data() {
     let title, updatedAt
@@ -98,6 +105,10 @@ export default {
       case 'severely-patient-card':
         title = this.$t('重傷者数')
         updatedAt = severelypatient.date
+        break
+      case 'vaccination-number-card':
+        title = this.$t('ワクチンの接種状況')
+        updatedAt = vaccination.date
         break
     }
 
