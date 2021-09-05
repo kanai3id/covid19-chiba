@@ -241,7 +241,7 @@ const options: ThisTypedComponentOptionsWithRecordProps<
               }),
               backgroundColor: style.fillColor,
               borderColor: style.strokeColor,
-              borderWidth: 1
+              borderWidth: 0
             }
           ]
         }
@@ -271,7 +271,7 @@ const options: ThisTypedComponentOptionsWithRecordProps<
             }),
             backgroundColor: style.fillColor,
             borderColor: style.strokeColor,
-            borderWidth: 1
+            borderWidth: 0
           }
         ]
       }
