@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-09-08",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210908-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年9月8日）"
+    },
+    {
+      "date": "2021-09-08",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210908-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(907-917例目)"
+    },
+    {
       "date": "2021-09-07",
       "url": "https://www.pref.chiba.lg.jp/byouin/covid19_22.html",
       "text": "千葉県立佐原病院職員の新型コロナウイルスへの感染について｜令和3年9月6日発表"
-    },
-    {
-      "date": "2021-09-07",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210907-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年9月7日）"
-    },
-    {
-      "date": "2021-09-07",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20210907-2.html",
-      "text": "新型コロナウイルス感染症による死亡について(897-904例目)"
     }
   ]
 }
