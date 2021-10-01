@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2021/09/29 12:00",
+  "lastUpdate": "2021/09/30 12:00",
   "main_summary": {
     "attr": "検査実施人数",
-    "value": 1048539,
+    "value": 1052169,
     "children": [
       {
         "attr": "陽性患者数",
-        "value": 99476
+        "value": 99558
       },
       {
         "attr": "療養中患者数",
-        "value": 1109,
+        "value": 994,
         "children": [
           {
             "attr": "入院中",
-            "value": 349
+            "value": 305
           },
           {
             "attr": "重症",
-            "value": 38
+            "value": 36
           },
           {
             "attr": "ホテル療養",
-            "value": 138
+            "value": 128
           },
           {
             "attr": "自宅療養",
-            "value": 580
+            "value": 503
           },
           {
             "attr": "施設内療養",
@@ -34,25 +34,25 @@
           },
           {
             "attr": "調整中",
-            "value": 26
+            "value": 43
           },
           {
             "attr": "その他",
-            "value": 16
+            "value": 15
           }
         ]
       },
       {
         "attr": "退院",
-        "value": 15190
+        "value": 15227
       },
       {
         "attr": "療養解除",
-        "value": 82184
+        "value": 82339
       },
       {
         "attr": "死亡",
-        "value": 993
+        "value": 998
       }
     ]
   }
