@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-10-26",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211026-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年10月26日）"
+    },
+    {
+      "date": "2021-10-26",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211026-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(1023例目)"
+    },
+    {
       "date": "2021-10-25",
       "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211025-1.html",
       "text": "新型コロナウイルス感染症感染者の発生について（令和3年10月25日）"
-    },
-    {
-      "date": "2021-10-24",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211024-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年10月24日）"
-    },
-    {
-      "date": "2021-10-23",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211023-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年10月23日）"
     }
   ]
 }
