@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-12-01",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211201-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和3年12月1日）"
+    },
+    {
+      "date": "2021-11-30",
+      "url": "https://www.pref.chiba.lg.jp/kenfuku/press/2021/urayasu-kimitsu.html",
+      "text": "新型コロナウイルス感染症対策に係る宿泊療養施設の設置について（浦安市・君津市）"
+    },
+    {
       "date": "2021-11-30",
       "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211130-1.html",
       "text": "新型コロナウイルス感染症感染者の発生について（令和3年11月30日）"
-    },
-    {
-      "date": "2021-11-29",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211129-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年11月29日）"
-    },
-    {
-      "date": "2021-11-27",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20211127-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和3年11月27日）"
     }
   ]
 }
