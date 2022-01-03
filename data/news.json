@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2022-01-02",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220102-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和4年1月2日）"
+    },
+    {
+      "date": "2022-01-02",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220102-2.html",
+      "text": "新型コロナウイルス感染症（オミクロン株）患者等の発生について(令和4年1月2日)"
+    },
+    {
       "date": "2022-01-01",
       "url": "https://www.pref.chiba.lg.jp/kenfuku/kansenshou/ncov/soti50.html",
       "text": "新型コロナウイルス感染症のレベル及び病床確保のフェーズの移行について"
-    },
-    {
-      "date": "2022-01-01",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220101-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和4年1月1日）"
-    },
-    {
-      "date": "2022-01-01",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220101-2.html",
-      "text": "新型コロナウイルス感染症（オミクロン株）患者等の発生について(令和4年1月1日)"
     }
   ]
 }
