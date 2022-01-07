@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2022-01-06",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220106-2.html",
+      "text": "新型コロナウイルス感染症（オミクロン株）患者等の発生について(令和4年1月6日)"
+    },
+    {
+      "date": "2022-01-06",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220106-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和4年1月6日）"
+    },
+    {
       "date": "2022-01-05",
       "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220105-1.html",
       "text": "新型コロナウイルス感染症感染者の発生について（令和4年1月5日）"
-    },
-    {
-      "date": "2022-01-04",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220104-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和4年1月4日）"
-    },
-    {
-      "date": "2022-01-03",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220103-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和4年1月3日）"
     }
   ]
 }
