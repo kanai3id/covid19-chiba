@@ -38,26 +38,36 @@
     </div>
     <div class="InfectionMedicalcareprovisionStatus-Box">
       <div class="InfectionMedicalcareprovisionStatus-Headline">
-        <app-link to="https://cio.go.jp/c19vaccine_dashboard">
+        <app-link to="https://info.vrs.digital.go.jp/dashboard">
           {{ $t('ワクチン接種状況') }}
         </app-link>
       </div>
       <div class="InfectionMedicalcareprovisionStatus-description">
-        {{ $t('１回目接種数') }}:
+        {{ $t('３回接種') }}:
         <span>
-          {{ statuses.data['ワクチン１回'].toLocaleString() }} ({{
-            statuses.data['ワクチン１割合'].toLocaleString()
+          {{ statuses.data['ワクチン３回'].toLocaleString() }} ({{
+            statuses.data['ワクチン３割合'].toLocaleString()
           }}
           %)
         </span>
-        , {{ $t('２回目接種数') }}:
+        , {{ $t('２回接種') }}:
         <span
           >{{ statuses.data['ワクチン２回'].toLocaleString() }} ({{
             statuses.data['ワクチン２割合'].toLocaleString()
           }}
           %)
         </span>
-        , {{ $t('出典元:内閣官房 IT総合戦略室') }}
+        , {{ $t('１回接種') }}:
+        <span
+          >{{ statuses.data['ワクチン１回'].toLocaleString() }} ({{
+            statuses.data['ワクチン１割合'].toLocaleString()
+          }}
+          %)
+        </span>
+        ( {{ statuses.data['ワクチン日付'].toLocaleString() }}
+        {{ $t('現在') }} ) - {{ $t('出典元:デジタル庁') }}
+      </div>
+    </div>
       </div>
     </div>
   </div>

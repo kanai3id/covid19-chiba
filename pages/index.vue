@@ -22,7 +22,9 @@
       <confirmed-cases-number-card />
       <positive-rate-card />
       <age-card />
+      <!--
       <vaccination-number-card />
+      -->
       <kanto-card />
       <medical-treatment-card />
       <severely-patient-card />
@@ -52,7 +54,7 @@ import AgeCard from '@/components/cards/AgeCard.vue'
 import KantoCard from '@/components/cards/KantoCard.vue'
 import MedicalTreatmentCard from '@/components/cards/MedicalTreatmentCard.vue'
 import SeverelyPatientCard from '@/components/cards/SeverelyPatientCard.vue'
-import VaccinationNumberCard from '@/components/cards/VaccinationNumberCard.vue'
+// import VaccinationNumberCard from '@/components/cards/VaccinationNumberCard.vue'
 
 export default Vue.extend({
   components: {
@@ -67,8 +69,8 @@ export default Vue.extend({
     AgeCard,
     KantoCard,
     MedicalTreatmentCard,
-    SeverelyPatientCard,
-    VaccinationNumberCard
+    SeverelyPatientCard
+//    VaccinationNumberCard
   },
   data() {
     const data = {
