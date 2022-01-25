@@ -131,12 +131,12 @@
         <span>
           {{
             $t(
-              '新型コロナワクチンの接種状況は、内閣官房 情報通信技術（ＩＴ）総合戦略室様のデータを利用しています。'
+              '新型コロナワクチンの接種状況は、デジタル庁様のデータを利用しています。'
             )
           }}<br />
           {{ $t('このようなソリューションの提供に感謝します。') }}<br />
           <a
-            href="https://cio.go.jp/c19vaccine_dashboard"
+            href="https://info.vrs.digital.go.jp/dashboard"
             target="_blank"
             rel="noopener"
           >
