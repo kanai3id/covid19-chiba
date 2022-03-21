@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2022-03-20",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220320-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(1589-1595例目)"
+    },
+    {
+      "date": "2022-03-20",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220320-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和4年3月20日）"
+    },
+    {
       "date": "2022-03-19",
       "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220319-2.html",
       "text": "新型コロナウイルス感染症による死亡について(1575-1583例目)"
-    },
-    {
-      "date": "2022-03-19",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220319-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和4年3月19日）"
-    },
-    {
-      "date": "2022-03-18",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220318-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和4年3月18日）"
     }
   ]
 }
