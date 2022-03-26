@@ -2,18 +2,18 @@
   "newsItems": [
     {
       "date": "2022-03-25",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220325-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和4年3月25日）"
+    },
+    {
+      "date": "2022-03-25",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220325-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(1623-1626例目)"
+    },
+    {
+      "date": "2022-03-25",
       "url": "https://www.pref.chiba.lg.jp/shippei/kansenshou/ncov/sessyucenter-tsudanuma.html",
       "text": "【延長】千葉県新型コロナワクチン追加接種センターについて"
-    },
-    {
-      "date": "2022-03-24",
-      "url": "https://www.pref.chiba.lg.jp/kenfuku/kenkoufukushi/test_distribute_and_register_positive.html",
-      "text": "【延長】千葉県新型コロナウイルス感染症検査キット配付・陽性者登録センターについて"
-    },
-    {
-      "date": "2022-03-24",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220324-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和4年3月24日）"
     }
   ]
 }
