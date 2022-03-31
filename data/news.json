@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2022-03-30",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220330-1.html",
+      "text": "新型コロナウイルス感染症感染者の発生について（令和4年3月30日）"
+    },
+    {
+      "date": "2022-03-30",
+      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220330-2.html",
+      "text": "新型コロナウイルス感染症による死亡について(1654-1656例目)"
+    },
+    {
       "date": "2022-03-29",
       "url": "https://www.pref.chiba.lg.jp/gikan/press/2021/hyoukakoumokukaijo-20220329.html",
       "text": "新型コロナウイルス感染症拡大防止対策に伴う千葉県総合評価方式の"
-    },
-    {
-      "date": "2022-03-29",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220329-2.html",
-      "text": "新型コロナウイルス感染症による死亡について(1644-1649例目)"
-    },
-    {
-      "date": "2022-03-29",
-      "url": "https://www.pref.chiba.lg.jp/shippei/press/2021/ncov20220329-1.html",
-      "text": "新型コロナウイルス感染症感染者の発生について（令和4年3月29日）"
     }
   ]
 }
